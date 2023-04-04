@@ -13,7 +13,7 @@
 <title>Resize Image Proportionally with CSS</title>
 <style>
 
-.AccoutingCPA {
+.accoutingcpa {
             margin: 3%;
             position: relative;
         }
@@ -185,7 +185,7 @@ nav ul li a:hover {
     color: black;
     border-left: 2px solid;
     border-right: 2px solid;    
-    background-image: url(Accounting.jpg); 
+    background-image: url(accounting.jpg); 
 }
 
 #main p {
